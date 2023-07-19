@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime for BitterSweets
   introTitle: "BitterSweets 서비스의 업타임 모니터에 오신 것을 환영합니다."
-  introMessage: 본 모니터링 서비스는 5분마다 BitterSweets의 접속 가능 여부를 파악하여 표시하고 있습니다.
+  introMessage: 본 모니터링 서비스는 BitterSweets 서비스의 접속 가능 여부를 실시간으로 표시하고 있습니다.
   navbar:
     - title: Status
       href: /
