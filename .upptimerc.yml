@@ -14,14 +14,16 @@ status-website:
   # cname: uptime.bittersweets.kr
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Upptime for BitterSweets
+  introTitle: "BitterSweets 서비스의 업타임 모니터에 오신 것을 환영합니다."
+  introMessage: 본 모니터링 서비스는 5분마다 BitterSweets의 접속 가능 여부를 파악하여 표시하고 있습니다.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: BitterSweets
+      href: https://bittersweets.kr/
+    - title: Galactic Archive
+      href: https://galactic.bittersweets.kr/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
