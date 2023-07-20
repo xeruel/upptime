@@ -4,18 +4,20 @@
     "url": "https://bittersweets.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/bittersweets.kr.ico",
     "slug": "bitter-sweets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2780,
-    "timeDay": 2780,
+    "timeDay": 3150,
     "timeWeek": 2780,
     "timeMonth": 2780,
     "timeYear": 2780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-20": 0
+    }
   },
   {
     "name": "Galactic Archive",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1468,
-    "timeDay": 1468,
+    "timeDay": 1339,
     "timeWeek": 1468,
     "timeMonth": 1468,
     "timeYear": 1468,
