@@ -4,7 +4,7 @@
     "url": "https://bittersweets.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/bittersweets.kr.ico",
     "slug": "bitter-sweets",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "97.59%",
     "uptimeWeek": "98.86%",
@@ -16,6 +16,7 @@
     "timeMonth": 2688,
     "timeYear": 2825,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-09-29": 35,
       "2023-09-28": 15,
       "2023-09-24": 65,
