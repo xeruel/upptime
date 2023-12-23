@@ -6,12 +6,12 @@
     "slug": "bitter-sweets",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.29%",
     "time": 2952,
-    "timeDay": 5082,
+    "timeDay": 7355,
     "timeWeek": 3497,
     "timeMonth": 3355,
     "timeYear": 2952,
@@ -32,7 +32,7 @@
     "url": "https://galactic.bittersweets.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/galactic.bittersweets.kr.ico",
     "slug": "galactic-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -44,6 +44,7 @@
     "timeMonth": 1473,
     "timeYear": 1486,
     "dailyMinutesDown": {
+      "2023-12-23": 0,
       "2023-09-27": 220,
       "2023-09-26": 378
     }
