@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bittersweets.kr.ico",
     "slug": "bitter-sweets",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 2973,
     "timeDay": 3622,
     "timeWeek": 3406,
@@ -34,9 +34,9 @@
     "url": "https://galactic.bittersweets.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/galactic.bittersweets.kr.ico",
     "slug": "galactic-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
@@ -46,6 +46,7 @@
     "timeMonth": 1449,
     "timeYear": 1488,
     "dailyMinutesDown": {
+      "2023-12-30": 0,
       "2023-09-27": 220,
       "2023-09-26": 378
     }
