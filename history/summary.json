@@ -35,7 +35,7 @@
     "url": "https://galactic.bittersweets.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/galactic.bittersweets.kr.ico",
     "slug": "galactic-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "97.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -47,6 +47,7 @@
     "timeMonth": 1581,
     "timeYear": 1475,
     "dailyMinutesDown": {
+      "2024-08-29": 0,
       "2024-08-16": 16,
       "2024-06-19": 85,
       "2024-06-08": 16,
