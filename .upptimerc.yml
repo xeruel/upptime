@@ -6,7 +6,7 @@ sites:
   - name: BitterSweets
     url: https://bittersweets.net/
   - name: Galactic Archive
-    url: https://galactic.bittersweets.kr/
+    url: https://galactic.bittersweets.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +23,7 @@ status-website:
     - title: BitterSweets
       href: https://bittersweets.net/
     - title: Galactic Archive
-      href: https://galactic.bittersweets.kr/
+      href: https://galactic.bittersweets.net/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
