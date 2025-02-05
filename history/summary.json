@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.85%",
-    "time": 2458,
-    "timeDay": 1638,
-    "timeWeek": 1973,
-    "timeMonth": 2057,
-    "timeYear": 1836,
+    "time": 2454,
+    "timeDay": 1531,
+    "timeWeek": 1896,
+    "timeMonth": 2019,
+    "timeYear": 1835,
     "dailyMinutesDown": {
       "2025-01-07": 545,
       "2024-10-09": 217
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/galactic.bittersweets.net.ico",
     "slug": "galactic-archive",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
-    "time": 1640,
-    "timeDay": 1062,
-    "timeWeek": 1240,
-    "timeMonth": 1308,
-    "timeYear": 1707,
+    "time": 1639,
+    "timeDay": 998,
+    "timeWeek": 1197,
+    "timeMonth": 1286,
+    "timeYear": 1705,
     "dailyMinutesDown": {
       "2024-12-17": 22,
       "2024-10-13": 37,
@@ -58,8 +58,7 @@
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 261
+      "2024-02-07": 1440
     }
   }
 ]
